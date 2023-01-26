@@ -1,0 +1,1 @@
+# ms-image-size-reducer
