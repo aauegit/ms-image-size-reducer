@@ -8,4 +8,6 @@
 
 3 - Criar conta e gerar uma API key, url - https://tinypng.com/
 
-4 - Criar um .env e adicionar a API Key no campo "key"
+4 - Criar um ficheiro chamado `.env` e adicionar a API Key no campo `key`
+
+5 - Correr ficheiro com o comando `python3 shrink_images_size.py`
